@@ -1,4 +1,5 @@
 'use strict';
+
 var wyplata = 5000;
 var premia = 2500.50;
 var calkowitaWypalata;
